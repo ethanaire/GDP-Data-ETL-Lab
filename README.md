@@ -36,6 +36,7 @@ While `requests`, `sqlite3`, and `datetime` come bundled with `python`, the othe
 ## Code Execution: 
 
 Once the code is complete, execute it through the terminal using the following command: 
-    ```python {cmd="/usr/local/bin/python3"}
+
+    ```
     python3.11 etl_project_gdp.py
     ```

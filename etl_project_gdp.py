@@ -1,7 +1,3 @@
-python3.11 -m pip install pandas 
-python3.11 -m pip install numpy
-python3.11 -m pip install bs4
-
 # Code for ETL operations on Country-GDP data
 
 # Importing the required libraries

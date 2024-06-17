@@ -33,6 +33,12 @@ The libraries needed for the code are as follows:
 
 While `requests`, `sqlite3`, and `datetime` come bundled with `python`, the other libraries will have to be installed.
 
+    ```
+    python3.11 -m pip install pandas 
+    python3.11 -m pip install numpy
+    python3.11 -m pip install bs4
+    ```
+
 ## Code Execution: 
 
 Once the code is complete, execute it through the terminal using the following command: 
